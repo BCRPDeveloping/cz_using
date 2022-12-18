@@ -5,4 +5,4 @@ description "For my Script"
 author 'CehZan'
 version '1.0'
   
-client_script 'using_depency'
+client_script 'using_depecy'
